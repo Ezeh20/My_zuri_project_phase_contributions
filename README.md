@@ -5,6 +5,9 @@ Good ['morning','afternoon','evening']
 I entered zuri as a fullstack developer but contributed to the frontend only, we had four frontend developers im my team
 I was assigned three task to perform which i did
 
+The team lead created a branch in our team repo so as to avoid merge conflicts, we the developers forked the repo then submit a  pull request of our 
+contributions to the develop branch,the team lead will then merge them and push to the master branch
+
 1}     I was told to build the sign Up page with necessary form validation which i did with javaScript
 
 
