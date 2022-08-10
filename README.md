@@ -16,6 +16,9 @@ I was assigned three task to perform which i did
    the hosted page=> https://ezeh20.github.io/pro_t_c/
    
    
+   
+   
+   
 2}      I was also assigned the product page 
 
 
@@ -24,6 +27,9 @@ I was assigned three task to perform which i did
    
    
    the hosted page=> https://ezeh20.github.io/pro_t_c_product_page/
+   
+   
+   
    
    
 3}     I worked on the Profile session of the user's dashboard
