@@ -5,14 +5,17 @@ Good ['morning','afternoon','evening']
 I entered zuri as a fullstack developer but contributed to the frontend only, we had four frontend developers im my team
 I was assigned three task to perform which i did
 
-The team lead created a branch in our team repo so as to avoid merge conflicts, we the developers forked the repo then submit a  pull request of our 
-contributions to the develop branch,the team lead will then merge them and push to the master branch
+The team lead created a branch in our team's repository so as to avoid merge conflicts, we the developers forked the repository then submit a  pull request of our 
+contributions to the develop branch.The team lead will then merge them and push to the master branch.
+
+
+These are my contributions which i sent to my personal repository before it got to my team's repository
 
 1}     I was told to build the sign Up page with necessary form validation which i did with javaScript
 
 
 
-   the repo=> https://github.com/Ezeh20/pro_t_c
+   the repository=> https://github.com/Ezeh20/pro_t_c
    
    
    
@@ -25,7 +28,7 @@ contributions to the develop branch,the team lead will then merge them and push 
 2}      I was also assigned the product page 
 
 
-   the repo=> https://github.com/Ezeh20/pro_t_c_product_page
+   the repository=> https://github.com/Ezeh20/pro_t_c_product_page
    
    
    
@@ -39,7 +42,7 @@ contributions to the develop branch,the team lead will then merge them and push 
 
 
 
-   the repo=> https://github.com/Ezeh20/user_dashboard
+   the repositoryo=> https://github.com/Ezeh20/user_dashboard
    
    
    
