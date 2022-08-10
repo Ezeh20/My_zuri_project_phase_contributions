@@ -54,3 +54,6 @@ These are my contributions which i sent to my personal repository before it got 
    
    the hosted page=> https://ezeh20.github.io/user_dashboard/
    
+   
+   issue=> https://github.com/zuri-training/t_c-generator-team71/issues/158
+   
