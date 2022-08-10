@@ -11,7 +11,7 @@ contributions to the develop branch.The team lead will then merge them and push 
 
 These are my contributions which i sent to my personal repository before it got to my team's repository
 
-1}     I was told to build the sign Up page with necessary form validation which i did with javaScript
+1}     I was told to build the Sign Up page with necessary form validation which i did with javaScript
 
 
 
@@ -25,7 +25,7 @@ These are my contributions which i sent to my personal repository before it got 
    
    
    
-2}      I was also assigned the product page 
+2}      I was also assigned the Product page 
 
 
    the repository=> https://github.com/Ezeh20/pro_t_c_product_page
