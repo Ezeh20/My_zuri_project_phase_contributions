@@ -47,7 +47,7 @@ These are my contributions which i sent to my personal repository before it got 
 
 
 
-   the repositoryo=> https://github.com/Ezeh20/user_dashboard
+   the repository=> https://github.com/Ezeh20/user_dashboard
    
    
    
