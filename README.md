@@ -9,7 +9,7 @@ I was assigned three task to perform which i did
    the repo=> https://github.com/Ezeh20/pro_t_c
    the hosted page=> https://ezeh20.github.io/pro_t_c/
    
-2: I was also assigned the product page
+2: I was also assigned the product page \n
    the repo=> https://github.com/Ezeh20/pro_t_c_product_page
    the hosted page=> https://ezeh20.github.io/pro_t_c_product_page/
    
